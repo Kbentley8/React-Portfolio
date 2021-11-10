@@ -1,5 +1,5 @@
 import React from "react";
-import HomeProfile from "../assets/photo.jpg"
+import HomeProfile from "../assets/HomeProfile.png"
 
 function HomeCard() {
     return (

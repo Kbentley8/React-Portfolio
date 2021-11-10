@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Movie and Meal",
+      "image": "moviemeal.png",
+      "project": "Movie and Meal Random Generator",
+      "location": "https://daelso.github.io/movie_meal/"
+    },
+    {
+      "id": 2,
+      "name": "Code Quiz",
+      "image": "codequiz.png",
+      "project": "Code Quiz made using Javascript",
+      "location": "https://kbentley8.github.io/CodeQuiz/"
+    },
+    {
+      "id": 3,
+      "name": "Password Generator",
+      "image": "password.png",
+      "project": "An app that generates a random password",
+      "location": "https://kbentley8.github.io/homework03-passwordgenerator/"
+    },
+    {
+      "id": 4,
+      "name": "Get to Work",
+      "image": "pmdash.png",
+      "project": "A Project Management Dashboard to organize tasks and deadlines",
+      "location": "https://stormy-fortress-72998.herokuapp.com/"
+    },
+    {
+      "id": 5,
+      "name": "Weather Dashboard",
+      "image": "weatherdash.png",
+      "project": "An app that displays a weekly forecast",
+      "location": "https://kbentley8.github.io/Weather-Dashboard/"
+    },
+    {
+      "id": 6,
+      "name": "Day Planner",
+      "image": "dayplanner.png",
+      "project": "An app to schedule your work day",
+      "location": "https://kbentley8.github.io/dayplanner/"
+    }
+  ]

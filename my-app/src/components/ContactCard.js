@@ -18,7 +18,7 @@ function ContactCard(props) {
 
                     <a href="https://github.com/Kbentley8" className="ml-4 mt-4 font-weight-bold">GitHub</a>
 
-                    <img src={ContactPNG} alt="profile-photo" className="profile float-left"></img>
+                    <img src={ContactPNG} alt="" className="profile float-left"></img>
                 </div>
             </div>
         </div >

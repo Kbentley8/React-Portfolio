@@ -18,7 +18,7 @@ function Learn() {
 
           <a href="https://github.com/Kbentley8" className="ml-4 mt-4 font-weight-bold">GitHub</a>
 
-          <img src={ResumePNG} alt="profile-photo" className="resumePNG"></img>
+          <img src={ResumePNG} alt="" className="resumePNG"></img>
           <a href="https://drive.google.com/file/d/1nvYXUpxk1iNyCn6CQVJC2g4kFmDxRbs6/view?usp=sharing"><h1 className="text-center mt-2">View Here</h1></a>
 
         </div>

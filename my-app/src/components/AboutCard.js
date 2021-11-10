@@ -7,7 +7,7 @@ function AboutCard() {
         <div className="about-container">
             <h5>About Me</h5>
 
-            <img src={Profile} alt="profile-photo" className="profile float-left"></img>
+            <img src={Profile} alt="" className="profile float-left"></img>
             <div>
 
                 <div>

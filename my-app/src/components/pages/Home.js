@@ -1,5 +1,5 @@
 import React from "react";
-import HomeProfile from "../../assets/HomeProfile.png"
+//import HomeProfile from "../../assets/HomeProfile.png"
 import HomeCard from '../HomeCard'
 
 function Home() {

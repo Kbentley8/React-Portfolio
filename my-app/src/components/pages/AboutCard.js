@@ -21,7 +21,7 @@ function AboutCard() {
                         through this portfolio, by
                         email:
                                                 <a href="mailto:aubentley80@gmail.com"
-                            target="_blank">aubentley80@gmail.com, </a> through<a
+                            target="_blank" rel="noreferrer">aubentley80@gmail.com, </a> through<a
                                 href="https://github.com/Kbentley8"> GitHub</a>, or through <a
                                     href="https://www.linkedin.com/in/kiyona-bentley-49889b218/">
                             LinkedIn.</a>

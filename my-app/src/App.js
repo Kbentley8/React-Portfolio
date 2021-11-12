@@ -1,27 +1,19 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-
-import Header from "./components/Header";
+import { HashRouter, Route, Link } from "react-router-dom";
+import PortfolioContainer from "./components/PortfolioContainer";
 import Footer from "./components/Footer";
-import Home from "./components/pages/Home";
-import About from "./components/pages/About";
-import Blog from "./components/pages/Blog";
-import Contact from "./components/pages/Contact";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
 function App() {
   return (
-    <Router>
-      <div>
-        <Header />
-        <Routes>
-        <Route exact path="/" element={Home} />
-        <Route exact path="/about" element={About} />
-        <Route exact path="/blog" element={Blog} />
-        <Route path="/contact" element={Contact} />
-        </Routes>
-        <Footer />
+    <div>
+      <div class="positioning">
+        <PortfolioContainer />
       </div>
-    </Router>
+<div></div>
+      <Footer />
+    </div>
   );
 }
 

@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+:root {
+ 
+  background-image: url(./assets/pano-dam.jpg);
+}
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
+body {
+  background-color: var(--lightblue);
+}
+
+.card {
+  background-color: #e094da5d;
+  color: rgb(214, 33, 124);
+}
+
+.positioning {
+  padding-bottom: 2.5rem;
+}
+
+.footer-style {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 4.5rem;
+}

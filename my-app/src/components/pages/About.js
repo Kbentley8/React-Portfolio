@@ -6,7 +6,7 @@ export default function About() {
     <div>
       <div className="px-4 py-5 my-5 text-center">
         <img
-          className="d-block mx-auto mb-4 rounded-circle shadow"
+          className="d-block mx-auto mb-4 rounded->< shadow"
           src={profilepic}
           alt="profile"
           width="300"

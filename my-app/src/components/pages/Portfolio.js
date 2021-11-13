@@ -82,7 +82,7 @@ export default function Portfolio() {
                 This app randomnly generates a secure password for the user
               </p>
               <a
-                href="https://kbentley8.github.io/homework03-passwordgenerator/"
+                href="https://kbentley8.github.io/passwordgenerator/"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-primary my-2"

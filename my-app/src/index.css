@@ -80,18 +80,18 @@ body {
 }
 
 .nav-tabs {
-  border: 2px lightgray solid;
+  border: 2px rgb(155, 62, 62) solid;
 
 }
 
 .nav-link {
-  color: white;
+  color: rgb(255, 5, 5);
   font-weight: bold;
 }
 
 .about-container {
   border: 1px white solid;
-  background-color:  #fffdd0;
+  background-color:  #bb0909;
   width: 50%;
   margin-left: 25%;
   height: 600px;
@@ -118,7 +118,7 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:  teal;
+  background-color:  rgb(230, 95, 42);
   color: white;
   text-align: center;
   border-top: 3px solid #2220b4;
@@ -126,7 +126,7 @@ body {
 
 .contact-card {
 border: 1px white solid;
-background-color:  #fffdd0;
+background-color:  #d41313;
 width: 25%;
 margin-left: 35%;
 margin-top: 20px;

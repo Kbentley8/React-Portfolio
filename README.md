@@ -10,6 +10,8 @@
 ## Description:
 For this project I was I was tasked with recreating my portfolio using React.js. 
 
+Link to Deployed app on Github Pages: [React Portfolio](https://kbentley8.github.io/React-Portfolio/)
+
 ## Screenshot
 ![Screen Shot 2021-11-12 at 9 22 13 PM](https://user-images.githubusercontent.com/88289885/141651005-fb982158-cc8e-4be3-971f-257e1657240d.png)
 

@@ -8,7 +8,7 @@
 
 
 ## Description:
-For this project I was I was tasked with recreating my portfolio using React.js. 
+For this project I  recreated my portfolio using React.js. 
 
 Link to Deployed app on Github Pages: [React Portfolio](https://kbentley8.github.io/React-Portfolio/)
 

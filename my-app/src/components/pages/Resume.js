@@ -32,7 +32,7 @@ export default function Resume() {
             Click the link below to view my resume
           </p>
           <a
-            href="https://drive.google.com/file/d/1nvYXUpxk1iNyCn6CQVJC2g4kFmDxRbs6/view?usp=sharing"
+            href="https://drive.google.com/file/d/1CSpeJJ2h-zJK883iQwNKRvQrB66IhlfI/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="icon-link"

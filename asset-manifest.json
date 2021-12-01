@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.ebc4b8b8.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.fbe7ca56.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.fbe7ca56.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.0f62f5d1.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.82102f87.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.82102f87.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.cf5dc5c1.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.cf5dc5c1.js.map",
     "static/css/2.73a4b9c4.chunk.css": "/React-Portfolio/static/css/2.73a4b9c4.chunk.css",
@@ -10,12 +10,12 @@
     "static/js/2.f7ca090d.chunk.js.map": "/React-Portfolio/static/js/2.f7ca090d.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.73a4b9c4.chunk.css.map": "/React-Portfolio/static/css/2.73a4b9c4.chunk.css.map",
-    "static/css/main.ebc4b8b8.chunk.css.map": "/React-Portfolio/static/css/main.ebc4b8b8.chunk.css.map",
+    "static/css/main.0f62f5d1.chunk.css.map": "/React-Portfolio/static/css/main.0f62f5d1.chunk.css.map",
     "static/js/2.f7ca090d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f7ca090d.chunk.js.LICENSE.txt",
     "static/media/codequiz.7f8695c2.png": "/React-Portfolio/static/media/codequiz.7f8695c2.png",
     "static/media/dayplanner.8d0094a7.png": "/React-Portfolio/static/media/dayplanner.8d0094a7.png",
     "static/media/moviemeal.8cca8fce.png": "/React-Portfolio/static/media/moviemeal.8cca8fce.png",
-    "static/media/App.css": "/React-Portfolio/static/media/pano-dam.b73ba032.jpg",
+    "static/media/App.css": "/React-Portfolio/static/media/pano-dam.12a14dd7.jpg",
     "static/media/password.bdfff4dd.png": "/React-Portfolio/static/media/password.bdfff4dd.png",
     "static/media/photo.571b3b84.jpg": "/React-Portfolio/static/media/photo.571b3b84.jpg",
     "static/media/pmdash.711b5bfd.png": "/React-Portfolio/static/media/pmdash.711b5bfd.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.cf5dc5c1.js",
     "static/css/2.73a4b9c4.chunk.css",
     "static/js/2.f7ca090d.chunk.js",
-    "static/css/main.ebc4b8b8.chunk.css",
-    "static/js/main.fbe7ca56.chunk.js"
+    "static/css/main.0f62f5d1.chunk.css",
+    "static/js/main.82102f87.chunk.js"
   ]
 }
